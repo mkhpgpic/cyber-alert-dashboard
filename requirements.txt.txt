@@ -1,2 +1,1 @@
-streamlit
-pandas
+streamlit run app.py --server.port=10000
