@@ -1,0 +1,133 @@
+﻿ردیف,نام منبع,نام اکانت,نوع,زبان,موضوع,زیر‌دسته,لینک,دقت,سرعت,بی‌طرفی,امتیاز کل,فعال
+1,Sentinel Def,@sentdefender,توییتر,انگلیسی,سایبری (IT),IT,https://twitter.com/sentdefender,24,23,22,69,بله
+2,Intel Crab,@IntelCrab,توییتر,انگلیسی,جنگ,خاورمیانه,https://twitter.com/IntelCrab,25,24,23,72,بله
+3,CyberKnow_,@CyberKnow_,توییتر,انگلیسی,نشت اطلاعات,دیتابیس,https://twitter.com/CyberKnow_,23,22,22,67,بله
+4,War Mapper,@war_mapper,توییتر,انگلیسی,جنگ,نقشه,https://twitter.com/war_mapper,24,23,23,70,بله
+5,Cyber Iran Leaks,@CyberIranLeaks,تلگرام,فارسی,نشت اطلاعات,دیتابیس,https://t.me/CyberIranLeaks,22,21,20,63,بله
+6,ICS CERT,-,وب‌سایت,انگلیسی,سایبری صنعتی,SCADA/ICS,https://www.cisa.gov/ics,25,25,24,74,بله
+7,Flash Alerts,@Flash_Alerts,توییتر,انگلیسی,ترور,هشدار فوری,https://twitter.com/Flash_Alerts,23,25,21,69,بله
+8,OSINT Defender,@OSINTdefender,توییتر,انگلیسی,جنگ / ترور,نقشه و تحلیل,https://twitter.com/OSINTdefender,24,23,22,69,بله
+9,Cyber Shafarat,@CyberShafarat,توییتر,انگلیسی,سایبری ایران,تهدیدات APT,https://twitter.com/CyberShafarat,23,22,20,65,بله
+10,ThreatMon,@ThreatMon,توییتر,انگلیسی,سایبری / نشت,دیتابیس,https://twitter.com/ThreatMon,24,24,23,71,بله
+11,MabnaLeaks,@MabnaLeaks,توییتر,فارسی,نشت اطلاعات,ایران,https://twitter.com/MabnaLeaks,22,21,21,64,بله
+12,DarkTracer,@darktracer_int,توییتر,انگلیسی,دارک‌وب,تهدیدات فعال,https://twitter.com/darktracer_int,25,24,22,71,بله
+13,ShadowGate,-,وب‌سایت,انگلیسی,سایبری,"APT, Leaks",https://shadowgate.org,23,22,21,66,بله
+14,CyberUnit51,@CyberUnit51,توییتر,انگلیسی,سایبری (ICS/IT),صنعتی و زیرساخت,https://twitter.com/CyberUnit51,25,25,23,73,بله
+15,Lab Dookhtegan,@GreenLeakers,توییتر,فارسی,نشت اطلاعات,ایران,https://twitter.com/GreenLeakers,23,23,22,68,بله
+16,@iribnews (پایشگر),@iribnews,توییتر,فارسی,ترور و عملیات,امنیت داخلی,https://twitter.com/iribnews,20,20,16,56,بله
+17,Middle East Eye,@MiddleEastEye,توییتر,انگلیسی,جنگ و امنیت,منطقه‌ای,https://twitter.com/MiddleEastEye,24,23,22,69,بله
+18,DEFCERT.ir,-,وب‌سایت,فارسی,سایبری ایران,ICS/SCADA,https://defcert.ir,25,25,22,72,بله
+19,DataBreaches.net,@databreach,توییتر,انگلیسی,نشت اطلاعات,جهانی,https://twitter.com/databreach,24,23,23,70,بله
+20,Milinavi,@milinavi,توییتر,انگلیسی,جنگ نظامی,پایش لحظه‌ای,https://twitter.com/milinavi,24,22,22,68,بله
+21,Sabrin News,@sabrinnews,تلگرام,عربی,جنگ و عملیات,مقاومت منطقه‌ای,https://t.me/sabrinnews,20,23,10,53,بله
+22,IntelAir&Sea,@IntelAirSea,توییتر,انگلیسی,جنگ هوایی/دریایی,منطقه‌ای,https://twitter.com/IntelAirSea,24,23,22,69,بله
+23,CyberKnow Leaks,@CyberKnowLeaks,توییتر,انگلیسی,نشت اطلاعات,دیتابیس,https://twitter.com/CyberKnowLeaks,23,22,22,67,بله
+24,LeakLooker,@leaklooker,توییتر,انگلیسی,دارک‌وب,دیتابیس و فروش,https://twitter.com/leaklooker,24,24,23,71,بله
+25,Shadow Brokers,@The_ShadowBrokers,تلگرام,انگلیسی,نشت ابزار سایبری,ابزارهای NSA,https://t.me/The_ShadowBrokers,25,25,15,65,بله
+26,DarkFeed,-,وب‌سایت,انگلیسی,دارک‌وب,گروه‌های باج‌افزار,https://darkfeed.io,24,25,20,69,بله
+27,HackerOne Iran,@h1iran,توییتر,فارسی,سایبری,آسیب‌پذیری,https://twitter.com/h1iran,22,21,20,63,بله
+28,LeakBase,@leakbase,توییتر,انگلیسی,نشت اطلاعات,دیتابیس,https://twitter.com/leakbase,23,22,21,66,بله
+29,Haaretz Security,@haaretzcom,توییتر,عبری,امنیت اسرائیل,داخلی,https://twitter.com/haaretzcom,23,21,20,64,بله
+30,DEFCERT Telegram,@defcert_channel,تلگرام,فارسی,سایبری صنعتی,ICS/OT,https://t.me/defcert_channel,25,24,23,72,بله
+31,MalwareHunterTeam,@malwrhunterteam,توییتر,انگلیسی,سایبری,باج‌افزار,https://twitter.com/malwrhunterteam,25,24,22,71,بله
+32,CyberKnow Graph,@CyberGraphIntel,توییتر,انگلیسی,سایبری,تحلیل گراف تهدید,https://twitter.com/CyberGraphIntel,24,23,23,70,بله
+33,Stratfor,@Stratfor,توییتر,انگلیسی,تحلیل امنیتی,استراتژیک,https://twitter.com/Stratfor,25,22,24,71,بله
+34,Cybersecurity&Intel,@CyberIntell,توییتر,انگلیسی,سایبری و تروریسم,تحلیل تهدید,https://twitter.com/CyberIntell,24,23,21,68,بله
+35,OSINT Combine,@OSINTCombine,توییتر,انگلیسی,OSINT,تحلیل تهدید,https://twitter.com/OSINTCombine,23,22,23,68,بله
+36,Haaretz Security TG,@haaretznews,تلگرام,عبری,امنیت داخلی,اسرائیل,https://t.me/haaretznews,23,20,20,63,بله
+37,Telegram Cyber Watch,@cyberwatch_ir,تلگرام,فارسی,سایبری ایران,گزارش رخداد,https://t.me/cyberwatch_ir,24,23,21,68,بله
+38,APT Hunter,@APT_hunter,توییتر,انگلیسی,حملات APT,جهانی,https://twitter.com/APT_hunter,25,25,22,72,بله
+39,Disclose.io,@disclosetweets,توییتر,انگلیسی,آسیب‌پذیری‌ها,زودهنگام,https://twitter.com/disclosetweets,23,23,23,69,بله
+40,CyberSecLeaks,@cybersecleaks,توییتر,انگلیسی,نشت اطلاعات,دیتابیس,https://twitter.com/cybersecleaks,23,21,22,66,بله
+41,TheCyberShia,@cybershia,توییتر,فارسی,سایبری,ایران/منطقه‌ای,https://twitter.com/cybershia,22,21,19,62,بله
+42,LeakExpress,@LeakExpress,توییتر,انگلیسی,نشت اطلاعات,داده‌های حساسی,https://twitter.com/LeakExpress,24,23,22,69,بله
+43,Security Affairs,@securityaffairs,توییتر,انگلیسی,سایبری,رخدادهای بین‌الملل,https://twitter.com/securityaffairs,25,24,24,73,بله
+44,Cyber Threat Intel,@CyberThreatIntel,توییتر,انگلیسی,سایبری,تهدید مداوم,https://twitter.com/CyberThreatIntel,23,22,23,68,بله
+45,GhostSec,@GhostSecGroup,توییتر,انگلیسی,تروریسم / سایبری,فعالیت گروه‌ها,https://twitter.com/GhostSecGroup,22,23,20,65,بله
+46,Shodan,-,وب‌سایت,انگلیسی,سایبری صنعتی,ICS Scanner,https://www.shodan.io,25,25,23,73,بله
+47,Iranian Hacker Watch,@IRhackerwatch,توییتر,انگلیسی,سایبری,ایران,https://twitter.com/IRhackerwatch,23,21,20,64,بله
+48,Cyber Iran Monitor,@CyberIranMon,توییتر,فارسی,سایبری,گزارش تهدیدات,https://twitter.com/CyberIranMon,24,22,21,67,بله
+49,FDD - Iran Tracker,@FDD_Iran,توییتر,انگلیسی,امنیت ایران,تحلیل سیاسی,https://twitter.com/FDD_Iran,22,22,21,65,بله
+50,VulnWatch,@VulnWatch,توییتر,انگلیسی,آسیب‌پذیری‌ها,CVE/Zero Day,https://twitter.com/VulnWatch,24,24,22,70,بله
+51,IranLeaks,@LeaksIran,توییتر,فارسی,نشت اطلاعات,ایران,https://twitter.com/LeaksIran,22,21,19,62,بله
+52,iSIGHT Partners,-,وب‌سایت,انگلیسی,سایبری جهانی,تحلیل تهدید,https://www.fireeye.com,25,25,24,74,بله
+53,Norse Corp,-,وب‌سایت,انگلیسی,حملات سایبری,رصد زنده,http://map.norsecorp.com,25,24,22,71,بله
+54,Threat Intel Platform,@ThreatIntelPlat,توییتر,انگلیسی,سایبری,تحلیل تهدیدات,https://twitter.com/ThreatIntelPlat,23,22,23,68,بله
+55,Infosec Iran,@InfosecIran,توییتر,فارسی,امنیت سایبری,ایران,https://twitter.com/InfosecIran,23,22,20,65,بله
+56,Infosecurity Magazine,@InfosecurityMag,توییتر,انگلیسی,امنیت سایبری,بین‌المللی,https://twitter.com/InfosecurityMag,25,25,24,74,بله
+57,Mandiant Threat Intel,@mandiant,توییتر,انگلیسی,سایبری,تهدیدات جهانی,https://twitter.com/mandiant,25,24,24,73,بله
+58,Certfa Lab,@CertfaLab,توییتر,فارسی,سایبری,حملات هدفمند,https://twitter.com/CertfaLab,24,23,22,69,بله
+59,Security Boulevard,@SecurityBlvd,توییتر,انگلیسی,تحلیل امنیت سایبری,مقاله و گزارش,https://twitter.com/SecurityBlvd,24,23,23,70,بله
+60,HackRead,@HackRead,توییتر,انگلیسی,نشت اطلاعات,دارک‌وب,https://twitter.com/HackRead,23,22,22,67,بله
+61,CyberWarWatch,@CyberWarWatch,توییتر,انگلیسی,جنگ و سایبری,تحلیل منطقه‌ای,https://twitter.com/CyberWarWatch,24,23,22,69,بله
+62,CyberSecurityInsider,@CyberSecInsider,توییتر,انگلیسی,امنیت سایبری,گزارش روزانه,https://twitter.com/CyberSecInsider,23,22,21,66,بله
+63,Iran Cyber News,@IranCyberNews,توییتر,فارسی,سایبری ایران,تهدیدات,https://twitter.com/IranCyberNews,22,21,20,63,بله
+64,InfoSecFeed,@InfoSecFeed,توییتر,انگلیسی,امنیت سایبری,تحلیل عمومی,https://twitter.com/InfoSecFeed,24,23,23,70,بله
+65,CyberLeaks,@CyberLeaks,توییتر,انگلیسی,نشت اطلاعات,دیتابیس,https://twitter.com/CyberLeaks,23,22,21,66,بله
+66,Middle East Security,@MidEastSecurity,توییتر,انگلیسی,امنیت خاورمیانه,تحلیل منطقه‌ای,https://twitter.com/MidEastSecurity,25,24,23,72,بله
+67,Darknet Watch,@DarknetWatch,توییتر,انگلیسی,دارک‌وب,پایش جرایم سایبری,https://twitter.com/DarknetWatch,24,23,22,69,بله
+68,Iran Security Updates,@IranSecUpdates,توییتر,فارسی,امنیت داخلی ایران,اخبار امنیت,https://twitter.com/IranSecUpdates,22,21,20,63,بله
+69,CyberIntelligence Hub,@CyberIntelHub,توییتر,انگلیسی,تحلیل تهدیدات,سایبری,https://twitter.com/CyberIntelHub,25,25,24,74,بله
+70,ThreatPost,@ThreatPost,توییتر,انگلیسی,امنیت سایبری,اخبار و تحلیل,https://twitter.com/ThreatPost,25,24,24,73,بله
+71,CyberIntel Iran,@CyberIntelIran,توییتر,فارسی,سایبری ایران,تحلیل تهدیدات,https://twitter.com/CyberIntelIran,23,22,20,65,بله
+72,InfoSec Brief,@InfoSecBrief,توییتر,انگلیسی,امنیت سایبری,خلاصه روزانه,https://twitter.com/InfoSecBrief,24,23,23,70,بله
+73,Iranian Cyber Threats,@IranCyberThreats,توییتر,فارسی,سایبری,تهدیدات منطقه‌ای,https://twitter.com/IranCyberThreats,22,21,20,63,بله
+74,Malware Must Die,@MalwareMustDie,توییتر,انگلیسی,امنیت سایبری,تحلیل بدافزارها,https://twitter.com/MalwareMustDie,25,25,24,74,بله
+75,CERT Polska,@CERTPolska,توییتر,انگلیسی,امنیت سایبری,مرکز CERT,https://twitter.com/CERTPolska,25,24,23,72,بله
+76,DarkTracer Iran,@DarkTracerIran,توییتر,فارسی,سایبری,نشت اطلاعات,https://twitter.com/DarkTracerIran,23,22,21,66,بله
+77,ThreatConnect,@ThreatConnect,توییتر,انگلیسی,تحلیل تهدیدات,پلتفرم OSINT,https://twitter.com/ThreatConnect,24,23,23,70,بله
+78,Digital Shadows,@digitalshadows,توییتر,انگلیسی,سایبری,نظارت دارک‌وب,https://twitter.com/digitalshadows,25,24,24,73,بله
+79,Cybersec News,@cybersecnews,توییتر,انگلیسی,اخبار سایبری,گزارش روزانه,https://twitter.com/cybersecnews,24,23,22,69,بله
+80,Iran Dark Web Monitor,@IranDarkWebMonitor,توییتر,فارسی,دارک‌وب,پایش ایران,https://twitter.com/IranDarkWebMonitor,22,21,20,63,بله
+81,InfoSec Today,@infosectoday,توییتر,انگلیسی,امنیت سایبری,اخبار و تحلیل,https://twitter.com/infosectoday,25,24,23,72,بله
+82,Cyber Threat Watch,@CyberThreatWatch,توییتر,انگلیسی,تهدیدات سایبری,تحلیل تهدیدات,https://twitter.com/CyberThreatWatch,24,23,22,69,بله
+83,Hacktivist Monitor,@HacktivistMonitor,توییتر,انگلیسی,هک و اعتراضات,فعالیت گروه‌ها,https://twitter.com/HacktivistMonitor,23,22,20,65,بله
+84,Iran Cyber Watch,@IranCyberWatch,توییتر,فارسی,سایبری ایران,گزارش تهدیدات,https://twitter.com/IranCyberWatch,22,21,20,63,بله
+85,CyberLeaks Network,@CyberLeaksNetwork,توییتر,انگلیسی,نشت اطلاعات,دیتابیس,https://twitter.com/CyberLeaksNetwork,24,23,22,69,بله
+86,Dark Web Watcher,@darkwebwatcher,توییتر,انگلیسی,دارک‌وب,پایش جرایم سایبری,https://twitter.com/darkwebwatcher,24,23,21,68,بله
+87,Iran Cyber Sec,@IranCyberSec,توییتر,فارسی,امنیت سایبری,ایران,https://twitter.com/IranCyberSec,23,22,20,65,بله
+88,Threat Analysis,@ThreatAnalysis,توییتر,انگلیسی,تحلیل تهدیدات,گزارش‌های امنیتی,https://twitter.com/ThreatAnalysis,25,24,23,72,بله
+89,CyberWar News,@CyberWarNews,توییتر,انگلیسی,جنگ سایبری,اخبار روزانه,https://twitter.com/CyberWarNews,24,23,22,69,بله
+90,CyberSec Telegram,@CyberSecTelegram,تلگرام,فارسی,سایبری,گزارش‌های ایران,https://t.me/CyberSecTelegram,23,22,21,66,بله
+91,Iran Threat Report,@IranThreatReport,توییتر,فارسی,تهدیدات داخلی,تحلیل امنیتی,https://twitter.com/IranThreatReport,22,21,20,63,بله
+92,CyberSecurity Reports,@CyberSecReports,توییتر,انگلیسی,گزارش‌های امنیتی,تحلیل تهدیدات,https://twitter.com/CyberSecReports,25,25,24,74,بله
+93,Hack News,@HackNews,توییتر,انگلیسی,اخبار هک و سایبری,اخبار روزانه,https://twitter.com/HackNews,24,24,23,71,بله
+94,Iran Cyber Defense,@IranCyberDefense,توییتر,فارسی,دفاع سایبری,ایران,https://twitter.com/IranCyberDefense,23,22,21,66,بله
+95,CyberIntel News,@CyberIntelNews,توییتر,انگلیسی,اخبار سایبری,تحلیل روزانه,https://twitter.com/CyberIntelNews,24,23,22,69,بله
+96,DarkNet Updates,@DarkNetUpdates,توییتر,انگلیسی,دارک‌وب,پایش جرایم سایبری,https://twitter.com/DarkNetUpdates,24,23,23,70,بله
+97,Iran Cyber News,@IranCyberNews2,توییتر,فارسی,سایبری ایران,گزارش تهدیدات,https://twitter.com/IranCyberNews2,22,21,20,63,بله
+98,Threat Intel Reports,@ThreatIntelReports,توییتر,انگلیسی,تحلیل تهدیدات,گزارش‌های امنیتی,https://twitter.com/ThreatIntelReports,25,25,24,74,بله
+99,CyberAttack Watch,@CyberAttackWatch,توییتر,انگلیسی,حملات سایبری,رصد حملات,https://twitter.com/CyberAttackWatch,24,24,22,70,بله
+100,Iran Security News,@IranSecurityNews,توییتر,فارسی,امنیت داخلی ایران,اخبار امنیت,https://twitter.com/IranSecurityNews,23,22,21,66,بله
+101,CyberWarriors Iran,@CyberWarriorsIran,توییتر,فارسی,جنگ سایبری,ایران و منطقه,https://twitter.com/CyberWarriorsIran,23,22,21,66,بله
+102,Iran Infosec Network,@IranInfosecNet,توییتر,فارسی,امنیت سایبری,شبکه ایران,https://twitter.com/IranInfosecNet,22,21,20,63,بله
+103,DarkNet Intelligence,@DarkNetIntel,توییتر,انگلیسی,دارک‌وب,تحلیل تهدیدات,https://twitter.com/DarkNetIntel,24,23,22,69,بله
+104,Iranian Cyber Alerts,@IranCyberAlerts,توییتر,فارسی,هشدارهای سایبری,ایران,https://twitter.com/IranCyberAlerts,23,22,21,66,بله
+105,CyberSec Watch,@CyberSecWatch,توییتر,انگلیسی,امنیت سایبری,پایش تهدیدات,https://twitter.com/CyberSecWatch,25,24,23,72,بله
+106,Hacktivist News,@HacktivistNews,توییتر,انگلیسی,هک و اعتراضات,اخبار و تحلیل,https://twitter.com/HacktivistNews,24,23,22,69,بله
+107,Iran Digital Security,@IranDigitalSec,توییتر,فارسی,امنیت دیجیتال,ایران,https://twitter.com/IranDigitalSec,22,21,20,63,بله
+108,CyberIntel Reports,@CyberIntelReports,توییتر,انگلیسی,تحلیل تهدیدات,گزارش‌های امنیتی,https://twitter.com/CyberIntelReports,25,24,24,73,بله
+109,ThreatWatch,@ThreatWatch,توییتر,انگلیسی,رصد تهدیدات,سایبری,https://twitter.com/ThreatWatch,24,23,23,70,بله
+110,Iran InfoSec Updates,@IranInfoSecUpdates,توییتر,فارسی,امنیت سایبری,ایران,https://twitter.com/IranInfoSecUpdates,23,22,21,66,بله
+111,DarkWeb Intelligence,@DarkWebIntel,توییتر,انگلیسی,دارک‌وب,تحلیل جرایم,https://twitter.com/DarkWebIntel,24,23,22,69,بله
+112,CyberSec Global News,@CyberSecGlobal,توییتر,انگلیسی,اخبار امنیتی,جهانی,https://twitter.com/CyberSecGlobal,25,24,23,72,بله
+113,Iran Cyber Reports,@IranCyberReports,توییتر,فارسی,گزارشات سایبری,ایران,https://twitter.com/IranCyberReports,23,22,20,65,بله
+114,Security News Today,@SecurityNewsToday,توییتر,انگلیسی,اخبار امنیتی,تحلیل و گزارش,https://twitter.com/SecurityNewsToday,24,23,23,70,بله
+115,Hackers Watch,@HackersWatch,توییتر,انگلیسی,هک و سایبری,رصد فعالیت‌ها,https://twitter.com/HackersWatch,24,23,22,69,بله
+116,Iran Cyber Defense,@IranCyberDefense2,توییتر,فارسی,دفاع سایبری,ایران,https://twitter.com/IranCyberDefense2,22,21,20,63,بله
+117,DarkNet Watch,@DarkNetWatch2,توییتر,انگلیسی,دارک‌وب,پایش جرایم,https://twitter.com/DarkNetWatch2,24,23,22,69,بله
+118,Cyber Intel Analysts,@CyberIntelAnalysts,توییتر,انگلیسی,تحلیل تهدیدات,امنیت سایبری,https://twitter.com/CyberIntelAnalysts,25,24,24,73,بله
+119,Iran InfoSec Watch,@IranInfoSecWatch,توییتر,فارسی,امنیت سایبری,ایران,https://twitter.com/IranInfoSecWatch,23,22,21,66,بله
+120,Cyber Threat Reports,@CyberThreatReports,توییتر,انگلیسی,گزارش تهدیدات,گزارش‌های روزانه,https://twitter.com/CyberThreatReports,24,23,23,70,بله
+121,InfoSec Global,@InfoSecGlobal,توییتر,انگلیسی,امنیت سایبری,اخبار و تحلیل,https://twitter.com/InfoSecGlobal,25,24,24,73,بله
+122,Iran Digital Defense,@IranDigitalDefense,توییتر,فارسی,دفاع سایبری,ایران,https://twitter.com/IranDigitalDefense,22,21,20,63,بله
+123,Dark Web Tracker,@DarkWebTracker,توییتر,انگلیسی,دارک‌وب,پایش جرایم,https://twitter.com/DarkWebTracker,24,23,22,69,بله
+124,CyberSec Iran Updates,@CyberSecIranUpdates,توییتر,فارسی,امنیت سایبری,ایران,https://twitter.com/CyberSecIranUpdates,23,22,21,66,بله
+125,Hacker Intelligence,@HackerIntel,توییتر,انگلیسی,تحلیل هک و تهدیدات,جهانی,https://twitter.com/HackerIntel,25,24,24,73,بله
+126,Iran Cyber Threat Watch,@IranCyberThreatWatch,توییتر,فارسی,سایبری,ایران,https://twitter.com/IranCyberThreatWatch,22,21,20,63,بله
+127,Threat Intel Daily,@ThreatIntelDaily,توییتر,انگلیسی,تحلیل تهدیدات,روزانه,https://twitter.com/ThreatIntelDaily,24,23,23,70,بله
+128,Cyber Security Watch,@CyberSecurityWatch,توییتر,انگلیسی,امنیت سایبری,گزارش تهدیدات,https://twitter.com/CyberSecurityWatch,24,23,22,69,بله
+129,Iranian Hackers Report,@IranHackersReport,توییتر,فارسی,گزارشات هک,ایران,https://twitter.com/IranHackersReport,23,22,21,66,بله
+130,Cyber Security News,@CyberSecNews2,توییتر,انگلیسی,اخبار امنیتی,تحلیل و گزارش,https://twitter.com/CyberSecNews2,24,23,23,70,بله
+131,Dark Web Intel Reports,@DarkWebIntelReports,توییتر,انگلیسی,دارک‌وب,پایش جرایم,https://twitter.com/DarkWebIntelReports,24,23,22,69,بله
+132,Iran Cybersecurity Hub,@IranCybersecurityHub,توییتر,فارسی,سایبری ایران,مرکز اطلاعاتی,https://twitter.com/IranCybersecurityHub,23,22,21,66,بله

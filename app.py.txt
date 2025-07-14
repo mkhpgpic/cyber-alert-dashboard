@@ -1,0 +1,16 @@
+import streamlit as st
+import pandas as pd
+
+st.set_page_config(page_title="داشبورد امنیتی", layout="wide")
+
+st.title("🛡️ داشبورد هشدارهای امنیتی")
+st.markdown("این داشبورد وقایع مربوط به جنگ، ترور، حملات سایبری و نشت اطلاعات را از منابع مختلف نمایش می‌دهد.")
+
+try:
+    df = pd.read_csv("tweets.csv", encoding="utf-8-sig")
+    st.success("✅ داده‌ها با موفقیت بارگذاری شدند.")
+except Exception as e:
+    st.error(f"❌ فایل tweets.csv پیدا نشد. خطا: {e}")
+    st.stop()
+
+st.dataframe(df)
